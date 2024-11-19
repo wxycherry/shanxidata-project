@@ -1,0 +1,6 @@
+# 部署配置文件，服务器的信息
+server:
+  host: '47.100.198.147'
+  username: 'root'
+  password: 'QPrbistXr1HxSXw'
+  remote_path: '/data/bj-hospital/nginx/html'  # 目标路径
